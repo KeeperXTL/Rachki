@@ -395,12 +395,17 @@ table.menu-table tr:hover td{
     }
 
     .icon {
-        width: 8vw;
-        height: 8vw;
+        width: 7vw;
+        height: 7vw;
     }
 
     .ph-numb-text {
         font-weight: 500;
         font-size: 5vw;
+    }
+
+    .adress-text {
+        font-weight: 500;
+        font-size: 3vw;
     }
 }
