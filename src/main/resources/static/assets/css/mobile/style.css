@@ -201,7 +201,7 @@ body {
     width: 85%;
     height: 70%;
     background-color: var(--black-alpha-50);
-    line-height: calc((100vh*0.7)/20);
+    line-height: calc((100vh*0.7)/21);
 }
 
 .menu-block {
@@ -258,7 +258,7 @@ table.menu-table tr:hover td{
     width: 85%;
     height: 60%;
     background-color: var(--black-alpha-60);
-    line-height: calc((100vh*0.6)/15);
+    line-height: calc((100vh*0.6)/16);
 }
 
 .text-al-center {
