@@ -175,22 +175,22 @@ body {
 }
 
 #about {
-    background: var(--bg-black-alpha-50), url("/images/main-background.jpg");
+    background: var(--bg-black-alpha-50), url("/images/browser/main-background.jpg");
     background-size: cover;
 }
 
 #menu {
-    background: var(--bg-black-alpha-50), url("/images/menu-background.jpg");
+    background: var(--bg-black-alpha-50), url("/images/browser/menu-background.jpg");
     background-size: cover;
 }
 
 #order {
-    background: var(--bg-black-alpha-60), url("/images/order-background.jpg");
+    background: var(--bg-black-alpha-60), url("/images/browser/order-background.jpg");
     background-size: cover;
 }
 
 #contacts {
-    background: var(--bg-black-alpha-60), url("/images/contacts-background.jpg");
+    background: var(--bg-black-alpha-60), url("/images/browser/contacts-background.jpg");
     background-size: cover;
 }
 
